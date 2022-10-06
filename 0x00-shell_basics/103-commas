@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -adm/
+#!/bin/bash 
+ls -a -d -m ./
